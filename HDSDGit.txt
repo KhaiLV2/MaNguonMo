@@ -1,0 +1,6 @@
+1. git config --global user.name "Van Khai"
+2. git config --global user.email "lvk20101998@gmail.com"
+3. git init
+4. git add . (git commit -m -a "Ghi chu")
+5. git log (kiem tra lich su day len git)
+6. git checkout (lua chon phien ban down ve)
